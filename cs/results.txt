@@ -1,0 +1,5 @@
+Infection Rate: 0.04, Final Density: 0.857426
+Infection Rate: 0.06, Final Density: 0.982178
+Infection Rate: 0.08, Final Density: 0.986139
+Infection Rate: 0.1, Final Density: 0.986139
+Infection Rate: 0.14, Final Density: 0.990099
